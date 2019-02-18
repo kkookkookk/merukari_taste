@@ -1,0 +1,2 @@
+class FastStepController < ApplicationController
+end
